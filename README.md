@@ -1,8 +1,8 @@
 ## Hi, I'm Rajit
 
-🎓 Computer Engineering Student at SPPU.
-😇 An Enthusiastic Learner
-💻 Passionate about Cyber Security, Computer Networking & Security.
+🎓 Computer Engineering Student at SPPU. <br>
+😇 An Enthusiastic Learner <br>
+💻 Passionate about Cyber Security, Computer Networking & Security. <br>
 
 
 ## 🌐 Socials:
