@@ -2,7 +2,6 @@
 
 🎓 Computer Engineering Student at SPPU. <br>
 😇 An Enthusiastic Learner <br>
-💻 Passionate about Cyber Security, Computer Networking & Security. <br>
 
 
 ## 🌐 Socials:
