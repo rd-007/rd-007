@@ -262,9 +262,6 @@ Building backend systems for a real subscription-based Delivery Management Syste
 ## Current Focus
 
 ```yaml
-status:
-  role: Spring Boot Development Intern @ Innox IT Solutions
-  location: Pune / Manmad, Maharashtra, India
 
 learning:
   - Java Spring ecosystem (advanced patterns, reactive programming)
